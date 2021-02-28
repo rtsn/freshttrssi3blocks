@@ -1,2 +1,2 @@
-# freshttrssi3blocks
-Get number of fresh articles from your tt-rss instance in i3blocks
+# ttrssini3blocks
+Get the number of fresh and starred articles from your tt-rss instance outputed in a pango formated string meant for i3blocks.
